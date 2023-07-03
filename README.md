@@ -8,7 +8,7 @@ source env/bin/activate
 
 How to run flask:
 
-Set up the app-->export FLASK_APP=main
+Set up the app-->export FLASK_APP=app
 
 Run in dev mode-->export FLASK_ENV=development
 
